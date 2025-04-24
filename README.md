@@ -1,4 +1,4 @@
-# RNN Music Generation using PyTorch
+# RNN Music Generation
 
 ## 📜 Abstract
 
